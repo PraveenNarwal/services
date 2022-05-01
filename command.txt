@@ -1,0 +1,9 @@
+npm i bcryptjs cors express jsonwebtoken mongoose morgan
+npm i nodemon --save-dev
+
+morgan https request loger
+
+
+
+---cliect ---
+npm i @reduxjs/toolkit react-router-dom mdb-react-ui-kit moment react-file-based64 react-google-login react-redux react-toastify @material-ui/core material-ui-chip-input axios
